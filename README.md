@@ -30,7 +30,7 @@ This project is a mini Student Management System designed to provide hands-on ex
 
 ## 🖼 Preview
 
-![Student Management Dashboard](preview.png)
+![Student Management Dashboard](https://github.com/Monishwaran-sk/Student-Management-System/tree/main/Screenshots)
 
 > *Sample output screenshot: Use MySQL Workbench or any SQL interface to view query results like this.*
 
